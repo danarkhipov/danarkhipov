@@ -1,9 +1,10 @@
 # Hi, I'm Dan
 
-I'm an AI engineer building my own startup, with over five years of experience across frontend and backend. I specialize in AI agents and run hands-on workshops about them.
+I'm an AI engineer. I build AI apps and agents, test them on real work and write about what breaks. I also consult startups and run workshops on AI agents.
 
-Here on GitHub, I'm working on [Family Graph](https://github.com/danarkhipov/family-graph). It's a self-hosted home for family history, where relatives can build a tree and edit the archive together. There's also an MCP interface for AI agents.
+## Building now
 
-I've spent eight years studying how the brain works. My research notes live in Notion.
+- **[Family Graph](https://github.com/danarkhipov/family-graph)**: an open-source, self-hosted family archive with an MCP interface for AI agents.
+- **Mayaq**: my startup, in development. It finds signals and ideas in public social channels and podcasts.
 
-[Find me on LinkedIn](https://www.linkedin.com/in/daniil-arkhipov/)
+[LinkedIn](https://www.linkedin.com/in/daniil-arkhipov/) · [X](https://x.com/danarkhipov)
