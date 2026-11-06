@@ -1,6 +1,6 @@
-# Hi, I'm Dan
+# Dan Arkhipov
 
-I'm an AI engineer. I build AI apps and agents, test them on real work and write about what breaks. I also consult startups and run workshops on AI agents.
+AI engineer. I build apps and agents, test them on real work and write about what breaks. Also consult startups and run agent workshops.
 
 ## Building now
 
